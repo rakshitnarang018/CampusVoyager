@@ -1,4 +1,4 @@
-# 🤖 Hellum Campus Tour Bot
+# 🤖 Campus Voyager
 
 An **AI-powered autonomous robot** that guides campus visitors with real-time navigation, personalized chat, and landmark descriptions — powered by OpenAI and Streamlit.
 
@@ -6,7 +6,7 @@ An **AI-powered autonomous robot** that guides campus visitors with real-time na
 
 ## 🛍️ Overview
 
-**Hellum Campus Tour Bot** is an intelligent physical robot designed to give campus tours autonomously. Whether you're a new student, a guest, or a prospective visitor, this bot offers **real-time conversational assistance**, **location-aware guidance**, and **autonomous movement** across the campus.
+**Camous Voyager** is an intelligent physical robot designed to give campus tours autonomously. Whether you're a new student, a guest, or a prospective visitor, this bot offers **real-time conversational assistance**, **location-aware guidance**, and **autonomous movement** across the campus.
 
 ---
 
