@@ -42,8 +42,8 @@ An **AI-powered autonomous robot** that guides campus visitors with real-time na
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Hellum-campus_tour_bot.git
-cd Hellum-campus_tour_bot
+git clone https://github.com/<your-username>/CampusVoyager.git
+cd CampusVoyager
 ```
 
 ### 2. Set up virtual environment
